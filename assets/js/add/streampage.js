@@ -1,4 +1,4 @@
-        const streamDiv = document.getElementById('streamnow');
+      /*  const streamDiv = document.getElementById('streamnow');
 
         // Array of full HTML content blocks
         const htmlContents = [
@@ -37,4 +37,4 @@
         updateContent();
 
         // Update content every 5 seconds
-        setInterval(updateContent, 5000);
+        setInterval(updateContent, 5000); */
